@@ -1,0 +1,160 @@
+@import "./fonts/PlusJakartaSans_Complete/Fonts/WEB/css/plus-jakarta-sans.css";
+@import "./fonts/Stardom_Complete/Stardom_Complete/Fonts/WEB/css/stardom.css";
+@import "tw-animate-css";
+@import "@fontsource-variable/geist";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'PlusJakartaSans-Variable', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    scroll-behavior: smooth;
+    @apply text-secondary-900 antialiased bg-white font-sans;
+  }
+
+  /* 1️⃣ H1 (Hero Level): Bold font, size set per-component */
+  h1 {
+    font-family: 'Stardom-Regular', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', serif;
+    @apply font-bold leading-tight mb-0;
+  }
+
+  /* 2️⃣ H2 (Section Headings): 28–36px, Bold */
+  h2 {
+    font-family: 'Stardom-Regular', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', serif;
+    @apply text-[24px] sm:text-[28px] md:text-[36px] font-bold leading-tight mb-8;
+  }
+
+  /* 3️⃣ H3 (Subheadings / Service Titles): 20–24px, Medium-bold */
+  h3 {
+    font-family: 'Stardom-Regular', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', serif;
+    @apply text-[18px] sm:text-[20px] md:text-[24px] font-semibold leading-snug mb-6;
+  }
+
+  /* 4️⃣ Body Text: 15–16px, Regular, Line height: 1.6–1.8 */
+  /* NOTE: span and div are intentionally excluded — they inherit from parent */
+  p,
+  li {
+    @apply text-[15px] md:text-[16px] leading-[1.6] md:leading-[1.8] font-normal;
+  }
+
+  p {
+    @apply mb-6;
+  }
+
+  /* 5️⃣ Small Text: 12–14px */
+  small,
+  .text-small {
+    @apply text-[12px] md:text-[14px] leading-relaxed;
+  }
+  .theme {
+    --font-heading: var(--font-sans);
+    --font-sans: 'Geist Variable', sans-serif;
+  }
+  :root {
+    --background: oklch(1 0 0);
+    --foreground: oklch(0.145 0 0);
+    --card: oklch(1 0 0);
+    --card-foreground: oklch(0.145 0 0);
+    --popover: oklch(1 0 0);
+    --popover-foreground: oklch(0.145 0 0);
+    --primary: oklch(0.205 0 0);
+    --primary-foreground: oklch(0.985 0 0);
+    --secondary: oklch(0.97 0 0);
+    --secondary-foreground: oklch(0.205 0 0);
+    --muted: oklch(0.97 0 0);
+    --muted-foreground: oklch(0.556 0 0);
+    --accent: oklch(0.97 0 0);
+    --accent-foreground: oklch(0.205 0 0);
+    --destructive: oklch(0.577 0.245 27.325);
+    --border: oklch(0.922 0 0);
+    --input: oklch(0.922 0 0);
+    --ring: oklch(0.708 0 0);
+    --chart-1: oklch(0.87 0 0);
+    --chart-2: oklch(0.556 0 0);
+    --chart-3: oklch(0.439 0 0);
+    --chart-4: oklch(0.371 0 0);
+    --chart-5: oklch(0.269 0 0);
+    --radius: 0.625rem;
+    --sidebar: oklch(0.985 0 0);
+    --sidebar-foreground: oklch(0.145 0 0);
+    --sidebar-primary: oklch(0.205 0 0);
+    --sidebar-primary-foreground: oklch(0.985 0 0);
+    --sidebar-accent: oklch(0.97 0 0);
+    --sidebar-accent-foreground: oklch(0.205 0 0);
+    --sidebar-border: oklch(0.922 0 0);
+    --sidebar-ring: oklch(0.708 0 0);
+  }
+  .dark {
+    --background: oklch(0.145 0 0);
+    --foreground: oklch(0.985 0 0);
+    --card: oklch(0.205 0 0);
+    --card-foreground: oklch(0.985 0 0);
+    --popover: oklch(0.205 0 0);
+    --popover-foreground: oklch(0.985 0 0);
+    --primary: oklch(0.922 0 0);
+    --primary-foreground: oklch(0.205 0 0);
+    --secondary: oklch(0.269 0 0);
+    --secondary-foreground: oklch(0.985 0 0);
+    --muted: oklch(0.269 0 0);
+    --muted-foreground: oklch(0.708 0 0);
+    --accent: oklch(0.269 0 0);
+    --accent-foreground: oklch(0.985 0 0);
+    --destructive: oklch(0.704 0.191 22.216);
+    --border: oklch(1 0 0 / 10%);
+    --input: oklch(1 0 0 / 15%);
+    --ring: oklch(0.556 0 0);
+    --chart-1: oklch(0.87 0 0);
+    --chart-2: oklch(0.556 0 0);
+    --chart-3: oklch(0.439 0 0);
+    --chart-4: oklch(0.371 0 0);
+    --chart-5: oklch(0.269 0 0);
+    --sidebar: oklch(0.205 0 0);
+    --sidebar-foreground: oklch(0.985 0 0);
+    --sidebar-primary: oklch(0.488 0.243 264.376);
+    --sidebar-primary-foreground: oklch(0.985 0 0);
+    --sidebar-accent: oklch(0.269 0 0);
+    --sidebar-accent-foreground: oklch(0.985 0 0);
+    --sidebar-border: oklch(1 0 0 / 10%);
+    --sidebar-ring: oklch(0.556 0 0);
+  }
+  * {
+    border-color: var(--border);
+  }
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+  }
+}
+
+@layer components {
+
+  /* Section spacing: 100–120px */
+  .section-spacing {
+    @apply py-[80px] md:py-[100px] lg:py-[120px];
+  }
+
+  /* Heading to Paragraph spacing: 32px */
+  .heading-spacing {
+    @apply mb-8;
+  }
+
+  /* Paragraph to Paragraph spacing: 24px */
+  .paragraph-spacing {
+    @apply mb-6;
+  }
+
+  .image-icon {
+    @apply w-12 h-12 object-contain p-1 rounded-lg transition-all duration-300;
+  }
+
+  .image-icon-container {
+    @apply inline-flex p-1.5 rounded-xl bg-white backdrop-blur-md border border-slate-200/50 shadow-sm group-hover:scale-110 transition-transform duration-300;
+  }
+
+  /* Custom section container */
+  .container-custom {
+    @apply max-w-[1244px] mx-auto px-6 md:px-12;
+  }
+}

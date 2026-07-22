@@ -1,0 +1,54 @@
+.pill {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 1.25rem;
+  border-radius: 9999px;
+  background: var(--pill-bg, rgba(255, 255, 255, 0.05));
+  color: var(--pill-text, rgba(255, 255, 255, 0.9));
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-decoration: none;
+  cursor: pointer;
+  overflow: hidden;
+  border: none;
+  transition: background 0.3s ease;
+  white-space: nowrap;
+}
+
+.hoverCircle {
+  position: absolute;
+  left: 50%;
+  border-radius: 50%;
+  background: var(--base, #a8e063);
+  pointer-events: none;
+  z-index: 0;
+  transform: translateX(-50%) scale(0);
+}
+
+.labelStack {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pillLabel {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: transform 0.3s ease;
+}
+
+.pillLabelHover {
+  position: absolute;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--hover-text, #000);
+  opacity: 0;
+  pointer-events: none;
+}

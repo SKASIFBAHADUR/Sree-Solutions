@@ -1,0 +1,76 @@
+.section {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the layout to match mission section */
+  padding-top: 45vh;         /* Pushed down below the top-right shape */
+  overflow: hidden;
+  font-family: var(--font-satoshi), sans-serif;
+}
+
+.visionHeader {
+  margin-bottom: 2.5rem;
+}
+
+.floatHeading {
+  color: #1C2B1E;
+  font-size: 3.25rem; /* Increased by ~20px (from 2rem to 3.25rem) */
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-family: var(--font-chillax), sans-serif;
+  margin: 0;
+  white-space: nowrap;
+  line-height: normal;
+}
+
+.floatParagraph {
+  color: rgba(28, 43, 30, 0.9);
+  font-size: 2.05rem; /* Increased by ~15px (from 1.1rem to 2.05rem) */
+  font-weight: 500;
+  line-height: 1.6;
+  font-family: var(--font-satoshi), sans-serif;
+  max-width: 500px; /* Slightly wider to accommodate larger text */
+  margin: 0;
+}
+
+.shapeBottomLeft {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  transform: scale(0.85); /* Slightly smaller to free up white space */
+  transform-origin: bottom left;
+  pointer-events: none;
+}
+
+.shapeTopRight {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  transform: scale(0.85); /* Slightly smaller */
+  transform-origin: top right;
+  pointer-events: none;
+}
+
+.container {
+  position: relative;
+  max-width: 1400px;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: left;
+  z-index: 2;
+  transform: translateY(-120px);
+}
+
+.visionHeader, .paragraph {
+  max-width: 600px;
+  width: 100%;
+}

@@ -1,0 +1,235 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  background: transparent;
+  transition: all 0.3s ease;
+}
+
+.container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 6%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logoWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 90px;
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 0 10px rgba(168, 224, 99, 0.2));
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+}
+
+.navLinks {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.link {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  transition: all 0.3s ease;
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 99px;
+  cursor: pointer;
+  padding: 0.7rem 1.4rem;
+}
+
+.link:hover {
+  color: #ffffff;
+}
+
+/* Dropdown Logic */
+.dropdownWrapper {
+  position: relative;
+}
+
+.dropdownTrigger {
+  padding-right: 0.5rem;
+}
+
+.dropdownContent {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+  width: 200px;
+  background: rgba(10, 10, 10, 0.9);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 0.75rem;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+.dropdownContent.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+}
+
+.dropdownItem {
+  display: block;
+  padding: 0.85rem 1.2rem;
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-radius: 10px;
+  transition: all 0.2s ease;
+  background: rgba(255, 255, 255, 0.02);
+  margin-bottom: 4px;
+}
+
+.dropdownItem:hover {
+  background: rgba(168, 224, 99, 0.1);
+  color: #a8e063;
+  padding-left: 1.5rem;
+}
+
+.ctaWrapper {
+  display: block;
+  transform: translateX(-150px);
+}
+
+.connectBtn {
+  background: rgba(168, 224, 99, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: #ffffff;
+  padding: 0.9rem 1.8rem;
+  border-radius: 50px;
+  border: 1px solid rgba(168, 224, 99, 0.3);
+  font-size: 0.95rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.2, 1, 0.3, 1);
+}
+
+.connectBtn:hover {
+  background: #a8e063;
+  color: #000000;
+  border-color: #a8e063;
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 12px 30px rgba(168, 224, 99, 0.4);
+}
+
+.mobileToggle {
+  display: none;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0.8rem;
+  border-radius: 50%;
+  color: #ffffff;
+  cursor: pointer;
+  z-index: 1002;
+  transition: all 0.3s ease;
+}
+
+.mobileToggle:hover {
+  background: rgba(255, 255, 255, 0.1);
+  transform: scale(1.1);
+}
+
+.mobileMenu {
+  position: fixed;
+  top: 0;
+  right: -100%;
+  width: 100%;
+  height: 100vh;
+  background: #0a0a0a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1.5rem;
+  z-index: 1001;
+  transition: right 0.6s cubic-bezier(0.8, 0, 0.2, 1);
+  padding: 0 10%;
+}
+
+.mobileMenu.active {
+  right: 0;
+}
+
+.mobileLink {
+  color: #ffffff;
+  font-size: 2rem;
+  font-weight: 800;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+}
+
+.mobileSubGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin: 0.5rem 0;
+  padding-left: 1rem;
+  border-left: 2px solid #a8e063;
+}
+
+.mobileSubHeader {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+}
+
+.mobileSubLink {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+@media (max-width: 1100px) {
+  .navLinks, .ctaWrapper {
+    display: none;
+  }
+  
+  .mobileToggle {
+    display: block;
+  }
+}

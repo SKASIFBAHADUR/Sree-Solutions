@@ -1,0 +1,1352 @@
+{
+  "processed": [
+    {
+      "type": "image",
+      "file": "public\\about-us\\career.avif",
+      "originalSize": 1128,
+      "generatedSize": 1960,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\about-us\\deliver.avif",
+      "originalSize": 1246,
+      "generatedSize": 2430,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\about-us\\future.avif",
+      "originalSize": 1235,
+      "generatedSize": 2539,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\about-us\\hero.avif",
+      "originalSize": 56057,
+      "generatedSize": 132636,
+      "maxWidth": 1920
+    },
+    {
+      "type": "image",
+      "file": "public\\about-us\\identity.avif",
+      "originalSize": 27623,
+      "generatedSize": 65170,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\about-us\\shield.avif",
+      "originalSize": 623,
+      "generatedSize": 929,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\about-us\\shield.webp",
+      "originalSize": 306,
+      "generatedSize": 929,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\about-us\\voice.avif",
+      "originalSize": 860,
+      "generatedSize": 1473,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\about-us\\voice.webp",
+      "originalSize": 614,
+      "generatedSize": 1473,
+      "maxWidth": 1200
+    },
+    {
+      "type": "video",
+      "file": "public\\banking-partner\\hero.mp4",
+      "originalSize": 637615,
+      "optimizedMp4Size": 598765,
+      "optimizedWebmSize": 848129,
+      "background": true
+    },
+    {
+      "type": "video",
+      "file": "public\\career-guru\\hero.mp4",
+      "originalSize": 946930,
+      "optimizedMp4Size": 923592,
+      "optimizedWebmSize": 1027977,
+      "background": true
+    },
+    {
+      "type": "image",
+      "file": "public\\contact us\\call us.avif",
+      "originalSize": 1410,
+      "generatedSize": 2593,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\contact us\\call us.png",
+      "originalSize": 2148,
+      "generatedSize": 2602,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\contact us\\email.avif",
+      "originalSize": 1228,
+      "generatedSize": 2389,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\contact us\\email.png",
+      "originalSize": 1642,
+      "generatedSize": 2402,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\contact us\\visit us.avif",
+      "originalSize": 944,
+      "generatedSize": 1780,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\contact us\\visit us.png",
+      "originalSize": 1028,
+      "generatedSize": 1780,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\contact us\\working-hours.avif",
+      "originalSize": 1611,
+      "generatedSize": 3093,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\contact us\\working-hours.png",
+      "originalSize": 2230,
+      "generatedSize": 3099,
+      "maxWidth": 1200
+    },
+    {
+      "type": "video",
+      "file": "public\\digital-marketing\\digital-marketing.mp4",
+      "originalSize": 1227958,
+      "optimizedMp4Size": 1175144,
+      "optimizedWebmSize": 1476121,
+      "background": false
+    },
+    {
+      "type": "video",
+      "file": "public\\epfo\\hero.mp4",
+      "originalSize": 1600121,
+      "optimizedMp4Size": 1544472,
+      "optimizedWebmSize": 1614522,
+      "background": true
+    },
+    {
+      "type": "video",
+      "file": "public\\esio\\hero.mp4",
+      "originalSize": 758289,
+      "optimizedMp4Size": 733305,
+      "optimizedWebmSize": 831198,
+      "background": true
+    },
+    {
+      "type": "image",
+      "file": "public\\experience.avif",
+      "originalSize": 9593,
+      "generatedSize": 25149,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\fasterr-outcome (1).avif",
+      "originalSize": 6532,
+      "generatedSize": 19453,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\fasterr-outcome (1).webp",
+      "originalSize": 13034,
+      "generatedSize": 19453,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7030.avif",
+      "originalSize": 128812,
+      "generatedSize": 299016,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7030.JPG",
+      "originalSize": 7046491,
+      "generatedSize": 305256,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7169.avif",
+      "originalSize": 80465,
+      "generatedSize": 186922,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7169.JPG",
+      "originalSize": 6323716,
+      "generatedSize": 191989,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7288.avif",
+      "originalSize": 53845,
+      "generatedSize": 137282,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7288.JPG",
+      "originalSize": 7068826,
+      "generatedSize": 140679,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7309.avif",
+      "originalSize": 101289,
+      "generatedSize": 207269,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7309.JPG",
+      "originalSize": 10060352,
+      "generatedSize": 211111,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7334.avif",
+      "originalSize": 165912,
+      "generatedSize": 375174,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7334.JPG",
+      "originalSize": 8617131,
+      "generatedSize": 382526,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7566.avif",
+      "originalSize": 118967,
+      "generatedSize": 259337,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7566.JPG",
+      "originalSize": 6780336,
+      "generatedSize": 267381,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7594.avif",
+      "originalSize": 99969,
+      "generatedSize": 212051,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\gallery\\IMG_7594.JPG",
+      "originalSize": 9723656,
+      "generatedSize": 215861,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\government-certified.avif",
+      "originalSize": 18284,
+      "generatedSize": 39452,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\happy-clients.avif",
+      "originalSize": 7973,
+      "generatedSize": 24868,
+      "maxWidth": 400
+    },
+    {
+      "type": "video",
+      "file": "public\\hero.mp4",
+      "originalSize": 964746,
+      "optimizedMp4Size": 914701,
+      "optimizedWebmSize": 967779,
+      "background": true
+    },
+    {
+      "type": "video",
+      "file": "public\\income-tax\\hero.mp4",
+      "originalSize": 748723,
+      "optimizedMp4Size": 717768,
+      "optimizedWebmSize": 847823,
+      "background": true
+    },
+    {
+      "type": "video",
+      "file": "public\\insurance-advisor\\hero.mp4",
+      "originalSize": 745080,
+      "optimizedMp4Size": 704766,
+      "optimizedWebmSize": 956623,
+      "background": true
+    },
+    {
+      "type": "video",
+      "file": "public\\kisan-dosth\\hero.mp4",
+      "originalSize": 1293321,
+      "optimizedMp4Size": 1295251,
+      "optimizedWebmSize": 1048739,
+      "background": true
+    },
+    {
+      "type": "video",
+      "file": "public\\legal-advisor\\hero.mp4",
+      "originalSize": 660923,
+      "optimizedMp4Size": 613434,
+      "optimizedWebmSize": 906044,
+      "background": true
+    },
+    {
+      "type": "video",
+      "file": "public\\medical-assistant\\hero.mp4",
+      "originalSize": 612088,
+      "optimizedMp4Size": 578675,
+      "optimizedWebmSize": 850238,
+      "background": true
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\andhra tourism.avif",
+      "originalSize": 1826,
+      "generatedSize": 3778,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\andhra tourism.png",
+      "originalSize": 2827,
+      "generatedSize": 3862,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\ap  police.avif",
+      "originalSize": 6906,
+      "generatedSize": 14000,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\ap  police.png",
+      "originalSize": 34842,
+      "generatedSize": 14066,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\apiiatp.avif",
+      "originalSize": 3349,
+      "generatedSize": 7003,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\apiiatp.jpeg",
+      "originalSize": 5319,
+      "generatedSize": 7077,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\aptransco.avif",
+      "originalSize": 2556,
+      "generatedSize": 5150,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\aptransco.jpeg",
+      "originalSize": 4522,
+      "generatedSize": 5256,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\ayush hospital.avif",
+      "originalSize": 4969,
+      "generatedSize": 11095,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\ayush hospital.jpg",
+      "originalSize": 208641,
+      "generatedSize": 11213,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\cpdap.avif",
+      "originalSize": 1897,
+      "generatedSize": 3836,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\cpdap.jpeg",
+      "originalSize": 3573,
+      "generatedSize": 3939,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\deloitte.avif",
+      "originalSize": 1649,
+      "generatedSize": 3630,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\deloitte.png",
+      "originalSize": 2097,
+      "generatedSize": 3679,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\dmart.avif",
+      "originalSize": 1154,
+      "generatedSize": 2268,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\dmart.jpeg",
+      "originalSize": 2348,
+      "generatedSize": 2310,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\ford.avif",
+      "originalSize": 2001,
+      "generatedSize": 1929,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\google.tmp.webp",
+      "originalSize": 8366,
+      "generatedSize": 8366,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\hcltech.avif",
+      "originalSize": 1426,
+      "generatedSize": 2870,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\hcltech.jpeg",
+      "originalSize": 3514,
+      "generatedSize": 2964,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\honda.avif",
+      "originalSize": 1645,
+      "generatedSize": 4017,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\honda.jpg",
+      "originalSize": 12553,
+      "generatedSize": 4085,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\kia.avif",
+      "originalSize": 1436,
+      "generatedSize": 3353,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\kia.jpg",
+      "originalSize": 25264,
+      "generatedSize": 3394,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\kia.webp",
+      "originalSize": 1958,
+      "generatedSize": 3394,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\metro.avif",
+      "originalSize": 1372,
+      "generatedSize": 3540,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\metro.png",
+      "originalSize": 1970,
+      "generatedSize": 3582,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\prathap industries.avif",
+      "originalSize": 3473,
+      "generatedSize": 7096,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\prathap industries.jpeg",
+      "originalSize": 7262,
+      "generatedSize": 7163,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\reliance mart.avif",
+      "originalSize": 4101,
+      "generatedSize": 8755,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\our-clients\\reliance mart.png",
+      "originalSize": 8532,
+      "generatedSize": 8841,
+      "maxWidth": 400
+    },
+    {
+      "type": "image",
+      "file": "public\\OurMission\\Circular-Ring.avif",
+      "originalSize": 61760,
+      "generatedSize": 138696,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\OurVission\\image-shape-1.avif",
+      "originalSize": 21776,
+      "generatedSize": 40710,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\OurVission\\image-shape-3.avif",
+      "originalSize": 54214,
+      "generatedSize": 109581,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\personalized-solutions.avif",
+      "originalSize": 1595,
+      "generatedSize": 2511,
+      "maxWidth": 1200
+    },
+    {
+      "type": "video",
+      "file": "public\\revenue\\hero.mp4",
+      "originalSize": 830585,
+      "optimizedMp4Size": 804230,
+      "optimizedWebmSize": 889100,
+      "background": true
+    },
+    {
+      "type": "video",
+      "file": "public\\rto\\hero.mp4",
+      "originalSize": 718752,
+      "optimizedMp4Size": 661685,
+      "optimizedWebmSize": 920510,
+      "background": true
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\banking-partner.avif",
+      "originalSize": 8045,
+      "generatedSize": 17946,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\career-guru.avif",
+      "originalSize": 10625,
+      "generatedSize": 23646,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\digital-buzz.avif",
+      "originalSize": 20065,
+      "generatedSize": 46706,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\epfo-esio.avif",
+      "originalSize": 10859,
+      "generatedSize": 24689,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\income-tax.avif",
+      "originalSize": 8562,
+      "generatedSize": 20672,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\insurance.avif",
+      "originalSize": 8238,
+      "generatedSize": 18972,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\kisan-dosth.avif",
+      "originalSize": 12776,
+      "generatedSize": 27368,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\legal-advisor.avif",
+      "originalSize": 5578,
+      "generatedSize": 12660,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\medical.avif",
+      "originalSize": 8682,
+      "generatedSize": 20800,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\revenue.avif",
+      "originalSize": 5434,
+      "generatedSize": 12456,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\rto.avif",
+      "originalSize": 8147,
+      "generatedSize": 18260,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\sree-seva.avif",
+      "originalSize": 37348,
+      "generatedSize": 88253,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\sree-tours-travels.avif",
+      "originalSize": 58721,
+      "generatedSize": 129884,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\services\\study-abroad.avif",
+      "originalSize": 9171,
+      "generatedSize": 20673,
+      "maxWidth": 1200
+    },
+    {
+      "type": "video",
+      "file": "public\\sree-seva\\hero.mp4",
+      "originalSize": 1101586,
+      "optimizedMp4Size": 1045707,
+      "optimizedWebmSize": 1021319,
+      "background": true
+    },
+    {
+      "type": "image",
+      "file": "public\\strategic.avif",
+      "originalSize": 1257,
+      "generatedSize": 2253,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\study-abroad\\core-capabilities-background.avif",
+      "originalSize": 11857,
+      "generatedSize": 27910,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\study-abroad\\core-capabilities-background.jpeg",
+      "originalSize": 103672,
+      "generatedSize": 28481,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\study-abroad\\study-abroad-background-image.avif",
+      "originalSize": 45419,
+      "generatedSize": 103034,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\study-abroad\\study-abroad-background-image.png",
+      "originalSize": 1632944,
+      "generatedSize": 105007,
+      "maxWidth": 1200
+    },
+    {
+      "type": "video",
+      "file": "public\\study-abroad\\STUDY_ABROAD.mp4",
+      "originalSize": 1652390,
+      "optimizedMp4Size": 1575674,
+      "optimizedWebmSize": 1468362,
+      "background": false
+    },
+    {
+      "type": "image",
+      "file": "public\\success-rate.avif",
+      "originalSize": 4574,
+      "generatedSize": 10944,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\support.avif",
+      "originalSize": 1717,
+      "generatedSize": 3204,
+      "maxWidth": 1200
+    },
+    {
+      "type": "video",
+      "file": "public\\tours-and-travels\\tours-travels.mp4",
+      "originalSize": 7762445,
+      "optimizedMp4Size": 1979904,
+      "optimizedWebmSize": 2042166,
+      "background": false
+    },
+    {
+      "type": "image",
+      "file": "public\\trust.avif",
+      "originalSize": 10593,
+      "generatedSize": 21875,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\bank-services.avif",
+      "originalSize": 12887,
+      "generatedSize": 29656,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\career-guru.avif",
+      "originalSize": 19688,
+      "generatedSize": 44275,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\digital-marketing.avif",
+      "originalSize": 20255,
+      "generatedSize": 47658,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\epfo.avif",
+      "originalSize": 13558,
+      "generatedSize": 31124,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\esio.avif",
+      "originalSize": 13558,
+      "generatedSize": 31124,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\income-tax.avif",
+      "originalSize": 12295,
+      "generatedSize": 30111,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\insurance.avif",
+      "originalSize": 10065,
+      "generatedSize": 23848,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\kisan-dost.avif",
+      "originalSize": 13049,
+      "generatedSize": 27478,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\legal-advisor.avif",
+      "originalSize": 7422,
+      "generatedSize": 17900,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\medical-assistant.avif",
+      "originalSize": 13926,
+      "generatedSize": 33274,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\revenue.avif",
+      "originalSize": 12018,
+      "generatedSize": 28660,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\rto.avif",
+      "originalSize": 12232,
+      "generatedSize": 28564,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\sree-seva.avif",
+      "originalSize": 34614,
+      "generatedSize": 80896,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\study-abroad.avif",
+      "originalSize": 21837,
+      "generatedSize": 48597,
+      "maxWidth": 1200
+    },
+    {
+      "type": "image",
+      "file": "public\\wat-we-do-for-you\\tours-and-travels.avif",
+      "originalSize": 58982,
+      "generatedSize": 130031,
+      "maxWidth": 1200
+    }
+  ],
+  "skipped": [
+    {
+      "type": "other",
+      "file": "public\\fonts\\Satoshi-Variable.woff2",
+      "reason": "Unsupported extension"
+    },
+    {
+      "type": "other",
+      "file": "public\\fonts\\Satoshi_Complete.zip",
+      "reason": "Unsupported extension"
+    },
+    {
+      "type": "other",
+      "file": "public\\our-clients\\apsrtc.gif",
+      "reason": "Unsupported extension"
+    },
+    {
+      "type": "svg",
+      "file": "public\\our-clients\\hero.svg",
+      "reason": "No size improvement"
+    },
+    {
+      "type": "svg",
+      "file": "public\\our-clients\\toyota.svg",
+      "reason": "No size improvement"
+    },
+    {
+      "type": "other",
+      "file": "public\\robots.txt",
+      "reason": "Unsupported extension"
+    },
+    {
+      "type": "other",
+      "file": "public\\sitemap.xml",
+      "reason": "Unsupported extension"
+    },
+    {
+      "type": "other",
+      "file": "public\\sree hero\\links.txt",
+      "reason": "Unsupported extension"
+    }
+  ],
+  "errors": [
+    {
+      "file": "public\\about-us\\career.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\about-us\\career.tmp.webp' -> 'D:\\skill-demo\\public\\about-us\\career.webp'"
+    },
+    {
+      "file": "public\\about-us\\deliver.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\about-us\\deliver.tmp.webp' -> 'D:\\skill-demo\\public\\about-us\\deliver.webp'"
+    },
+    {
+      "file": "public\\about-us\\future.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\about-us\\future.tmp.webp' -> 'D:\\skill-demo\\public\\about-us\\future.webp'"
+    },
+    {
+      "file": "public\\about-us\\hero.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\about-us\\hero.tmp.webp' -> 'D:\\skill-demo\\public\\about-us\\hero.webp'"
+    },
+    {
+      "file": "public\\about-us\\identity.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\about-us\\identity.tmp.webp' -> 'D:\\skill-demo\\public\\about-us\\identity.webp'"
+    },
+    {
+      "file": "public\\banking-partner\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\career-guru\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\contact us\\call us.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\contact us\\call us.tmp.webp' -> 'D:\\skill-demo\\public\\contact us\\call us.webp'"
+    },
+    {
+      "file": "public\\contact us\\email.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\contact us\\email.tmp.webp' -> 'D:\\skill-demo\\public\\contact us\\email.webp'"
+    },
+    {
+      "file": "public\\contact us\\visit us.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\contact us\\visit us.tmp.webp' -> 'D:\\skill-demo\\public\\contact us\\visit us.webp'"
+    },
+    {
+      "file": "public\\contact us\\working-hours.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\contact us\\working-hours.tmp.webp' -> 'D:\\skill-demo\\public\\contact us\\working-hours.webp'"
+    },
+    {
+      "file": "public\\digital-marketing\\digital-marketing.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\epfo\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\esio\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\experience.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\experience.tmp.webp' -> 'D:\\skill-demo\\public\\experience.webp'"
+    },
+    {
+      "file": "public\\gallery\\IMG_7030.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\gallery\\IMG_7030.tmp.webp' -> 'D:\\skill-demo\\public\\gallery\\IMG_7030.webp'"
+    },
+    {
+      "file": "public\\gallery\\IMG_7169.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\gallery\\IMG_7169.tmp.webp' -> 'D:\\skill-demo\\public\\gallery\\IMG_7169.webp'"
+    },
+    {
+      "file": "public\\gallery\\IMG_7288.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\gallery\\IMG_7288.tmp.webp' -> 'D:\\skill-demo\\public\\gallery\\IMG_7288.webp'"
+    },
+    {
+      "file": "public\\gallery\\IMG_7309.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\gallery\\IMG_7309.tmp.webp' -> 'D:\\skill-demo\\public\\gallery\\IMG_7309.webp'"
+    },
+    {
+      "file": "public\\gallery\\IMG_7334.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\gallery\\IMG_7334.tmp.webp' -> 'D:\\skill-demo\\public\\gallery\\IMG_7334.webp'"
+    },
+    {
+      "file": "public\\gallery\\IMG_7566.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\gallery\\IMG_7566.tmp.webp' -> 'D:\\skill-demo\\public\\gallery\\IMG_7566.webp'"
+    },
+    {
+      "file": "public\\gallery\\IMG_7594.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\gallery\\IMG_7594.tmp.webp' -> 'D:\\skill-demo\\public\\gallery\\IMG_7594.webp'"
+    },
+    {
+      "file": "public\\government-certified.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\government-certified.tmp.webp' -> 'D:\\skill-demo\\public\\government-certified.webp'"
+    },
+    {
+      "file": "public\\happy-clients.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\happy-clients.tmp.webp' -> 'D:\\skill-demo\\public\\happy-clients.webp'"
+    },
+    {
+      "file": "public\\hero\\SreeSolution office .MOV (1).webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\hero\\video-1.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\hero\\video-2.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\hero\\video-3.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\hero\\video-4.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\hero\\video-5.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\income-tax\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\insurance-advisor\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\kisan-dosth\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\legal-advisor\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\medical-assistant\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\our-clients\\andhra tourism.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\andhra tourism.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\andhra tourism.webp'"
+    },
+    {
+      "file": "public\\our-clients\\ap  police.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\ap  police.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\ap  police.webp'"
+    },
+    {
+      "file": "public\\our-clients\\apiiatp.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\apiiatp.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\apiiatp.webp'"
+    },
+    {
+      "file": "public\\our-clients\\aptransco.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\aptransco.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\aptransco.webp'"
+    },
+    {
+      "file": "public\\our-clients\\ayush hospital.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\ayush hospital.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\ayush hospital.webp'"
+    },
+    {
+      "file": "public\\our-clients\\cpdap.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\cpdap.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\cpdap.webp'"
+    },
+    {
+      "file": "public\\our-clients\\deloitte.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\deloitte.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\deloitte.webp'"
+    },
+    {
+      "file": "public\\our-clients\\dmart.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\dmart.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\dmart.webp'"
+    },
+    {
+      "file": "public\\our-clients\\google.webp",
+      "message": "D:\\skill-demo\\public\\our-clients\\google.tmp.webp: unable to open for write\nsystem error: Invalid argument\nD:\\skill-demo\\public\\our-clients\\google.tmp.webp: write error\nsystem error: Invalid argument"
+    },
+    {
+      "file": "public\\our-clients\\hcltech.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\hcltech.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\hcltech.webp'"
+    },
+    {
+      "file": "public\\our-clients\\honda.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\honda.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\honda.webp'"
+    },
+    {
+      "file": "public\\our-clients\\metro.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\metro.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\metro.webp'"
+    },
+    {
+      "file": "public\\our-clients\\prathap industries.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\prathap industries.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\prathap industries.webp'"
+    },
+    {
+      "file": "public\\our-clients\\reliance mart.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\reliance mart.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\reliance mart.webp'"
+    },
+    {
+      "file": "public\\our-clients\\skoda.tmp.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\our-clients\\skoda.tmp.tmp.webp' -> 'D:\\skill-demo\\public\\our-clients\\skoda.tmp.webp'"
+    },
+    {
+      "file": "public\\our-clients\\skoda.webp",
+      "message": "D:\\skill-demo\\public\\our-clients\\skoda.tmp.webp: unable to open for write\nsystem error: Invalid argument\nD:\\skill-demo\\public\\our-clients\\skoda.tmp.webp: write error\nsystem error: Invalid argument"
+    },
+    {
+      "file": "public\\OurMission\\Circular-Ring.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\OurMission\\Circular-Ring.tmp.webp' -> 'D:\\skill-demo\\public\\OurMission\\Circular-Ring.webp'"
+    },
+    {
+      "file": "public\\OurVission\\image-shape-1.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\OurVission\\image-shape-1.tmp.webp' -> 'D:\\skill-demo\\public\\OurVission\\image-shape-1.webp'"
+    },
+    {
+      "file": "public\\OurVission\\image-shape-3.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\OurVission\\image-shape-3.tmp.webp' -> 'D:\\skill-demo\\public\\OurVission\\image-shape-3.webp'"
+    },
+    {
+      "file": "public\\personalized-solutions.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\personalized-solutions.tmp.webp' -> 'D:\\skill-demo\\public\\personalized-solutions.webp'"
+    },
+    {
+      "file": "public\\revenue\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\rto\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\services\\banking-partner.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\banking-partner.tmp.webp' -> 'D:\\skill-demo\\public\\services\\banking-partner.webp'"
+    },
+    {
+      "file": "public\\services\\career-guru.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\career-guru.tmp.webp' -> 'D:\\skill-demo\\public\\services\\career-guru.webp'"
+    },
+    {
+      "file": "public\\services\\digital-buzz.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\digital-buzz.tmp.webp' -> 'D:\\skill-demo\\public\\services\\digital-buzz.webp'"
+    },
+    {
+      "file": "public\\services\\epfo-esio.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\epfo-esio.tmp.webp' -> 'D:\\skill-demo\\public\\services\\epfo-esio.webp'"
+    },
+    {
+      "file": "public\\services\\income-tax.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\income-tax.tmp.webp' -> 'D:\\skill-demo\\public\\services\\income-tax.webp'"
+    },
+    {
+      "file": "public\\services\\insurance.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\insurance.tmp.webp' -> 'D:\\skill-demo\\public\\services\\insurance.webp'"
+    },
+    {
+      "file": "public\\services\\kisan-dosth.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\kisan-dosth.tmp.webp' -> 'D:\\skill-demo\\public\\services\\kisan-dosth.webp'"
+    },
+    {
+      "file": "public\\services\\legal-advisor.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\legal-advisor.tmp.webp' -> 'D:\\skill-demo\\public\\services\\legal-advisor.webp'"
+    },
+    {
+      "file": "public\\services\\logo.tmp.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\logo.tmp.tmp.webp' -> 'D:\\skill-demo\\public\\services\\logo.tmp.webp'"
+    },
+    {
+      "file": "public\\services\\logo.webp",
+      "message": "D:\\skill-demo\\public\\services\\logo.tmp.webp: unable to open for write\nsystem error: Invalid argument\nD:\\skill-demo\\public\\services\\logo.tmp.webp: write error\nsystem error: Invalid argument"
+    },
+    {
+      "file": "public\\services\\medical.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\medical.tmp.webp' -> 'D:\\skill-demo\\public\\services\\medical.webp'"
+    },
+    {
+      "file": "public\\services\\revenue.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\revenue.tmp.webp' -> 'D:\\skill-demo\\public\\services\\revenue.webp'"
+    },
+    {
+      "file": "public\\services\\rto.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\rto.tmp.webp' -> 'D:\\skill-demo\\public\\services\\rto.webp'"
+    },
+    {
+      "file": "public\\services\\sree-seva.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\sree-seva.tmp.webp' -> 'D:\\skill-demo\\public\\services\\sree-seva.webp'"
+    },
+    {
+      "file": "public\\services\\sree-tours-travels.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\sree-tours-travels.tmp.webp' -> 'D:\\skill-demo\\public\\services\\sree-tours-travels.webp'"
+    },
+    {
+      "file": "public\\services\\study-abroad.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\services\\study-abroad.tmp.webp' -> 'D:\\skill-demo\\public\\services\\study-abroad.webp'"
+    },
+    {
+      "file": "public\\sree-seva\\hero.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\strategic.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\strategic.tmp.webp' -> 'D:\\skill-demo\\public\\strategic.webp'"
+    },
+    {
+      "file": "public\\study-abroad\\core-capabilities-background.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\study-abroad\\core-capabilities-background.tmp.webp' -> 'D:\\skill-demo\\public\\study-abroad\\core-capabilities-background.webp'"
+    },
+    {
+      "file": "public\\study-abroad\\study-abroad-background-image.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\study-abroad\\study-abroad-background-image.tmp.webp' -> 'D:\\skill-demo\\public\\study-abroad\\study-abroad-background-image.webp'"
+    },
+    {
+      "file": "public\\study-abroad\\STUDY_ABROAD.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\success-rate.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\success-rate.tmp.webp' -> 'D:\\skill-demo\\public\\success-rate.webp'"
+    },
+    {
+      "file": "public\\support.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\support.tmp.webp' -> 'D:\\skill-demo\\public\\support.webp'"
+    },
+    {
+      "file": "public\\tours-and-travels\\booking.tmp.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\tours-and-travels\\booking.tmp.tmp.webp' -> 'D:\\skill-demo\\public\\tours-and-travels\\booking.tmp.webp'"
+    },
+    {
+      "file": "public\\tours-and-travels\\booking.webp",
+      "message": "D:\\skill-demo\\public\\tours-and-travels\\booking.tmp.webp: unable to open for write\nsystem error: Invalid argument\nD:\\skill-demo\\public\\tours-and-travels\\booking.tmp.webp: write error\nsystem error: Invalid argument"
+    },
+    {
+      "file": "public\\tours-and-travels\\darshanam.tmp.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\tours-and-travels\\darshanam.tmp.tmp.webp' -> 'D:\\skill-demo\\public\\tours-and-travels\\darshanam.tmp.webp'"
+    },
+    {
+      "file": "public\\tours-and-travels\\darshanam.webp",
+      "message": "D:\\skill-demo\\public\\tours-and-travels\\darshanam.tmp.webp: unable to open for write\nsystem error: Invalid argument\nD:\\skill-demo\\public\\tours-and-travels\\darshanam.tmp.webp: write error\nsystem error: Invalid argument"
+    },
+    {
+      "file": "public\\tours-and-travels\\devotional-tour.tmp.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\tours-and-travels\\devotional-tour.tmp.tmp.webp' -> 'D:\\skill-demo\\public\\tours-and-travels\\devotional-tour.tmp.webp'"
+    },
+    {
+      "file": "public\\tours-and-travels\\devotional-tour.webp",
+      "message": "D:\\skill-demo\\public\\tours-and-travels\\devotional-tour.tmp.webp: unable to open for write\nsystem error: Invalid argument\nD:\\skill-demo\\public\\tours-and-travels\\devotional-tour.tmp.webp: write error\nsystem error: Invalid argument"
+    },
+    {
+      "file": "public\\tours-and-travels\\tours-travels.tmp.mp4",
+      "message": "ENOENT: no such file or directory, stat 'D:\\skill-demo\\public\\tours-and-travels\\tours-travels.tmp.mp4'"
+    },
+    {
+      "file": "public\\tours-and-travels\\tours-travels.webm",
+      "message": "ffmpeg failed with code 4294967274"
+    },
+    {
+      "file": "public\\trust.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\trust.tmp.webp' -> 'D:\\skill-demo\\public\\trust.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\bank-services.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\bank-services.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\bank-services.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\career-guru.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\career-guru.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\career-guru.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\digital-marketing.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\digital-marketing.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\digital-marketing.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\epfo.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\epfo.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\epfo.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\esio.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\esio.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\esio.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\income-tax.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\income-tax.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\income-tax.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\insurance.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\insurance.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\insurance.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\kisan-dost.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\kisan-dost.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\kisan-dost.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\legal-advisor.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\legal-advisor.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\legal-advisor.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\medical-assistant.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\medical-assistant.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\medical-assistant.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\revenue.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\revenue.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\revenue.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\rto.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\rto.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\rto.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\sree-seva.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\sree-seva.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\sree-seva.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\study-abroad.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\study-abroad.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\study-abroad.webp'"
+    },
+    {
+      "file": "public\\wat-we-do-for-you\\tours-and-travels.webp",
+      "message": "EPERM: operation not permitted, rename 'D:\\skill-demo\\public\\wat-we-do-for-you\\tours-and-travels.tmp.webp' -> 'D:\\skill-demo\\public\\wat-we-do-for-you\\tours-and-travels.webp'"
+    }
+  ]
+}

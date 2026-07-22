@@ -1,0 +1,174 @@
+.section {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #0a0a0a;
+  position: relative;
+  overflow: hidden;
+  padding: 100px 6%;
+  font-family: var(--font-satoshi), sans-serif;
+}
+
+.bgWhite {
+  background-color: #ffffff !important;
+}
+
+.titleDark {
+  color: #1a1a2e !important;
+}
+
+.silkContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.6;
+}
+
+.container {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6rem;
+}
+
+.mainLayout {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 5%;
+}
+
+.leftCol {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.sectionTitle {
+  font-size: 5.25rem;
+  line-height: 0.95;
+  font-weight: 800;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: -0.05em;
+  margin: 0;
+  text-align: left;
+  font-family: var(--font-chillax), sans-serif;
+}
+
+/* Star image as background of the heading block */
+.headingImg {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 16px;
+  padding: 2rem 2.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Dark overlay so text is always readable over the image */
+.headingImg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.55);
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Ensure the text sits above the overlay */
+.headingImg h2,
+.headingImg > * {
+  position: relative;
+  z-index: 1;
+}
+
+.leftGridWrapper {
+  width: 100%;
+  padding-top: 3rem;
+}
+
+.rightCol {
+  display: flex;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+@media (max-width: 1400px) {
+  .sectionTitle {
+    font-size: 5rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  .mainLayout {
+    grid-template-columns: 1fr;
+    gap: 4rem;
+  }
+  .rightCol {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 40px 6%;
+  }
+  .sectionTitle {
+    font-size: 3rem;
+  }
+}
+
+/* ── Custom Government & Legal layout ─────────────────────────── */
+
+/* Top row: 2 cards left | heading right */
+.topRow {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 3rem;
+  align-items: center;
+  width: 100%;
+}
+
+.row1Cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+.headingCol {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: right;
+}
+
+/* Bottom row: override chromaGrid to always be 3 cols */
+.row2Grid {
+  margin-top: 0 !important;
+}
+
+@media (max-width: 1024px) {
+  .topRow {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .headingCol {
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .row1Cards {
+    grid-template-columns: 1fr;
+  }
+}
+
